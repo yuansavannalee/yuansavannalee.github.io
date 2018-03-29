@@ -81,7 +81,19 @@ section .row img {
   margin: 0 0 30px;
 }
 
+.carousel {
+  padding: 10px;
+  margin: 0 200px;
+  /*height:4vh;*/
+}
 
+.about-carousel {
+  height:30vh;
+}
+
+h3{text-align:center;
+
+}
 footer {
   font-size: 30px;
   margin: 30px;
