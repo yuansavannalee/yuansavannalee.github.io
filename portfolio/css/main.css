@@ -84,12 +84,11 @@ section .row img {
 .carousel {
   padding: 10px;
   margin: 0 200px;
-  /*height:4vh;*/
 }
 
-.about-carousel {
+/*.about-carousel {
   height:30vh;
-}
+}*/
 
 h3{text-align:center;
 
