@@ -119,6 +119,10 @@ section .row img {
 
 .carousel-slide{
   padding: 10px;
+<<<<<<< HEAD
+=======
+  margin: 0 200px;
+>>>>>>> parent of eac2c6f... too much margin in slideshow
 }
 
 .about-carousel{
