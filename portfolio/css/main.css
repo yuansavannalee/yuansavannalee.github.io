@@ -19,6 +19,9 @@ header h1 {
   margin: 0;
 }
 
+header{
+  text-align:center;
+}
 header nav {
   display: flex;
   justify-content: flex-end;
@@ -49,6 +52,20 @@ header p {
 .jumbotron h3 {
   margin: 0 0 20px;
   color: #fff;
+}
+.logo {
+      padding:0 10px;
+      color: #f4511e;
+      font-size: 50px;
+  }
+.label{
+  padding:0 10px;
+  font-size:20px;
+
+}
+#toggle{
+  opacity:0.7;
+  font-size:30px;
 }
 
 section {padding:0 10%;
@@ -135,6 +152,17 @@ footer {
   background: #125688;
   color: white;
 }
+@media screen and (max-width: 600px) {
+    .fa{
+      display:none;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .jumbotron{
+      display:none;
+    }
+    
+  }
 
 
 
