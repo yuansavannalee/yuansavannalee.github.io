@@ -156,12 +156,20 @@ footer {
     .fa{
       display:none;
     }
+    .navbar{
+      height:70vh;
+    }
+    body{font-weight:10;
+         font-size:1.5em;}
   }
+    
 @media screen and (max-width: 992px) {
     .jumbotron{
       display:none;
     }
-    
+    .navbar-brand{
+      background-color:blue;
+    }
   }
 
 
