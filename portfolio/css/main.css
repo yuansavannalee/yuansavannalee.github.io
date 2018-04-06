@@ -156,9 +156,9 @@ footer {
     .fa{
       display:none;
     }
-    .navbar{
+    /*.navbar{
       height:35vh;
-    }
+    }*/
     body{font-weight:10;
          font-size:1.5em;}
   }
