@@ -1,5 +1,7 @@
-.jumbotron{
-background-image:url ('images/background.png');}
+body{
+background-image:url ('images/background.png');
+background-repeat:repeat;
+}
 
 #colleen,
 #umsi {
