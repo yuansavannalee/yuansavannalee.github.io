@@ -1,11 +1,11 @@
 body{
-background-image:url ('images/background.png');
+background-image:url ('css/images/background.png');
 background-repeat:repeat;
 }
 
 #colleen,
 #umsi {
-	border: 5px blue;
+	border: 5px blue solid;
 	padding: 5%;
 }
 
